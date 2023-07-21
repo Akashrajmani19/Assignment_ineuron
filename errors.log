@@ -1,0 +1,6 @@
+2023-07-21 10:32:16,404 - ERROR - Error occurred: ValueError, This is a sample exception.
+2023-07-21 10:32:16,405 - ERROR - Traceback (most recent call last):
+  File "/tmp/ipykernel_83/1303587463.py", line 18, in main
+    raise ValueError("This is a sample exception.")
+ValueError: This is a sample exception.
+
